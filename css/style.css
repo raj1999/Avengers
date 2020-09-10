@@ -1,0 +1,105 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+
+    
+}
+body{
+    background-image: url('https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/5fb17e4b-c3d4-4a7e-9164-30a4ee9ead14/dd5o4fk-30b14ed1-fbc5-4692-ac9f-85e02c4f0364.jpg/v1/fill/w_1116,h_716,q_70,strp/avengers__endgame___an_end_of_an_era_by_edcom02_dd5o4fk-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3siaGVpZ2h0IjoiPD0xNzM0IiwicGF0aCI6IlwvZlwvNWZiMTdlNGItYzNkNC00YTdlLTkxNjQtMzBhNGVlOWVhZDE0XC9kZDVvNGZrLTMwYjE0ZWQxLWZiYzUtNDY5Mi1hYzlmLTg1ZTAyYzRmMDM2NC5qcGciLCJ3aWR0aCI6Ijw9MjcwMCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.NMnyFjKjseHMJ_DqlAttYFJ8XinKl4qmP0AykexAgJ8'); background-size: cover; height: auto;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.gauntlet{
+    height: 200px;
+    width: 200px;
+    margin-left: 20px;
+    
+    border-radius: 0.5rem;
+    
+
+}
+.snap-t{
+    position: absolute;
+    top: 0;
+}
+
+.thanos-snap{
+    width: fit-content;
+    
+    
+    
+}
+.iron-snap{
+    float: right;
+    top: 0;
+    position: absolute;
+    right: 20px !important ;
+}
+p{
+    font-family: 'Roboto', sans-serif;
+    color: #ae0707;
+    font-size: 18px;
+}
+#iron{
+    text-align : center;
+}
+#char{
+    height: 200px;
+    width: 200px;
+    margin-left: 20px;
+    margin-top: 20px;
+    border-radius: 0.5rem;
+    float: left;
+    
+}
+#char-div{
+    background-color: transparent;
+    margin: 20px;
+    margin-top: 260px;
+}
+.pic-all span{
+    display: block;
+    color: #ae0707;
+    font-weight: 600;
+}
+.pic-all{
+    vertical-align: top;
+    display: inline-block;
+    text-align: center;
+}
+.hulk-snap{
+    margin-left: 41%;
+    position: absolute;
+    top: 0;
+}
+
+.hoverprop{
+    border: 1px solid aliceblue;
+    border-radius :0.5rem;
+    box-shadow: 2px 2px 0px #999494;
+}
+
+#lastimg{
+    display: none;
+}
+
+.lastimg1{
+    display: block;
+    position: absolute;
+    margin-left: 20%;
+    margin-right: 20%;
+    bottom: 0;
+}
+.imglast{
+    width: 100%;
+}
+.quote{
+    font-size: 20px;
+    font-size: 20px;
+    font-weight: 900;
+    text-align: center;
+    margin-left: 32%;
+    color: #b887bb;
+    text-shadow: 2px 2px #ff0000;
+}
